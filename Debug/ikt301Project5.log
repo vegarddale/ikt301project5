@@ -1,0 +1,5 @@
+﻿  ikt301Project5.cpp
+C:\Users\vegard\source\repos\ikt301Project5\ikt301Project5.cpp(13,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vegard\source\repos\ikt301Project5\ikt301Project5.cpp(41,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vegard\source\repos\ikt301Project5\ikt301Project5.cpp(97,23): warning C4018: '<': signed/unsigned mismatch
+LINK : fatal error LNK1104: cannot open file 'python39_d.lib'
